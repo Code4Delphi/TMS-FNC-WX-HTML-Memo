@@ -1,6 +1,6 @@
-# Visualize e edite texto formatado em HTML no Delphi, incluindo tabelas e imagens, e aplique estilos de fonte predefinidos - TMS FNC WX HTML Memo
+# Visualize e edite HTML no Delphi com TMS FNC WX HTML Memo
 
-Exemplo de utilização do componente TMSFNCWXHTMLMemo para visualizar e editar HTML diretamente no Delphi. 
+Visualize e edite texto formatado em HTML no Delphi, incluindo tabelas e imagens, e aplique estilos de fonte predefinidos com o componente TMSFNCWXHTMLMemo 
 
 ## 🏷️ Cupom de desconto
 - Use este cupom exclusivo e tenha 30% de desconto em qualquer produto da TMS:
