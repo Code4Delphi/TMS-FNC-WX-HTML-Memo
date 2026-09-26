@@ -15,6 +15,8 @@ Visualize e edite texto formatado em HTML no Delphi, incluindo tabelas e imagens
 ## Vídeos de demonstração
 - Em breve
 
+## Screenshot
+<img width="1215" height="763" alt="image" src="https://github.com/user-attachments/assets/841fd03b-1ce2-4f57-b768-223c8f06188c" />
 
 <br>
 
